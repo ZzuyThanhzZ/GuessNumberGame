@@ -9,5 +9,8 @@
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
 }
